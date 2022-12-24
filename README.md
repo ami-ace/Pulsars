@@ -8,10 +8,10 @@ and the CSIRO ATNF Catalogue.
 
 ## Files
 
-#atnfnew.txt: 
+#atnfnew.txt: <br>
 ASCII File, Data from ATNF Catalogue
-#RA and DEC Conversion: 
+#RA and DEC Conversion: <br>
 Converts Right Ascension(hh:mm:ss) and Declination(dd:mm:ss) to Decimal Degrees(dd)
-#empty.csv: 
+#empty.csv: <br>
 Output file with RA and DEC, converted to CSV
           
